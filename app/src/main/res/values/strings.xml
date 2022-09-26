@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">trabalho_listatelefonica</string>
+    <string name="app_name">Trabalho - Lista Telefonica</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="salvar">Salvar</string>
+    <string name="data_de_nascimento">Data de Nascimento</string>
 </resources>
